@@ -1,0 +1,1 @@
+SVG -> Scalable Vector Graphics is an XML-based vector image format for defining two-dimensional graphics , having support for interavtivity and animation.
